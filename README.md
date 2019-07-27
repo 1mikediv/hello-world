@@ -1,2 +1,2 @@
 # hello-world
-just a practise repository
+Hi  Mike here just learning how to commit changes 
